@@ -1,0 +1,17 @@
+BUS_NUMBER,D_FNAME,D_PHNUMBER,STUDENT_ID,S_FNAME,time_to_uni,TO_UNI,WORK_TIME,B_CITY,S_POSTCODE,B_STREET,time_to_home
+103,Malik,596543220,1234567892,Amal,12:00 PM,Jeddah University,Afternoon Shift,Jeddah,100019,Al-khalidiya,4:00 PM
+102,Owais,573457890,1234567892,Amal,8:00 AM,Jeddah University,Morning Shift,Jeddah,100019,Al-khalidiya,11:00 AM
+103,Malik,596543220,1234567893,Mona,12:00 PM,Jeddah University,Afternoon Shift,Jeddah,100015,Al-nahdah,4:00 PM
+102,Owais,573457890,1234567893,Mona,8:00 AM,Jeddah University,Morning Shift,Jeddah,100015,Al-nahdah,11:00 AM
+103,Malik,596543220,1234567894,Nada,12:00 PM,Jeddah University,Afternoon Shift,Jeddah,120010,Abdullah bin Al-Abbas,4:00 PM
+102,Owais,573457890,1234567894,Nada,8:00 AM,Jeddah University,Morning Shift,Jeddah,120010,Abdullah bin Al-Abbas,11:00 AM
+100,Mussab,534117890,1234567895,Sara,6:00 AM,KAU,Morning Shift,Makkah,120510,Abdullah bin Al-Abbas,11:00 AM
+101,Raed,506543210,1234567895,Sara,12:00 PM,KAU,Afternoon Shift,Makkah,120510,Abdullah bin Al-Abbas,4:00 PM
+100,Mussab,534117890,1234567896,Farah,6:00 AM,KAU,Morning Shift,Makkah,120019,Dr Abdul qadir koshak,11:00 AM
+101,Raed,506543210,1234567896,Farah,12:00 PM,KAU,Afternoon Shift,Makkah,120019,Dr Abdul qadir koshak,4:00 PM
+100,Mussab,534117890,1234567897,Wafa,6:00 AM,KAU,Morning Shift,Makkah,120015,Al-Laith,11:00 AM
+101,Raed,506543210,1234567897,Wafa,12:00 PM,KAU,Afternoon Shift,Makkah,120015,Al-Laith,4:00 PM
+103,Malik,596543220,1234567890,Soha,12:00 PM,Jeddah University,Afternoon Shift,Jeddah,100010,Tahlia,4:00 PM
+102,Owais,573457890,1234567890,Soha,8:00 AM,Jeddah University,Morning Shift,Jeddah,100010,Tahlia,11:00 AM
+103,Malik,596543220,1234567891,Mona,12:00 PM,Jeddah University,Afternoon Shift,Jeddah,100510,Tahlia,4:00 PM
+102,Owais,573457890,1234567891,Mona,8:00 AM,Jeddah University,Morning Shift,Jeddah,100510,Tahlia,11:00 AM
